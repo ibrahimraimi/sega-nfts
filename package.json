@@ -14,7 +14,7 @@
     "@solana/wallet-adapter-base": "0.7.1",
     "@solana/wallet-adapter-react": "0.13.1",
     "@solana/wallet-adapter-react-ui": "0.9.27",
-    "@solana/wallet-adapter-wallets": "0.11.3",
+    "@solana/wallet-adapter-wallets": "0.19.10",
     "@solana/web3.js": "1.67.0",
     "@testing-library/dom": "8.19.0",
     "@testing-library/jest-dom": "5.16.5",
